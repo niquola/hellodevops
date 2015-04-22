@@ -9,6 +9,7 @@
   "author": "niquola",
   "license": "ISC",
   "devDependencies": {
+    "express-generator": "latest",
     "jasmine": "latest",
     "jasmine-node": "latest"
   }
